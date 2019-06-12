@@ -1,4 +1,4 @@
-# Get lerna changed
+# If JSON has "dependency"
 
 This library returns if JSON has certain dependency.
 ## Installation
