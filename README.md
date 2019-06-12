@@ -1,11 +1,6 @@
 # Get lerna changed
 
-This library helps to get changed lerna bundle. Actually, it runs:
-
-```bash
-lerna changed
-```
-And gets changed project name
+This library returns if JSON has certain dependency.
 ## Installation
 
 Use the "go get".
